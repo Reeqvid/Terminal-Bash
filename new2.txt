@@ -1,0 +1,8 @@
+{
+	"name":"Oleg",
+	"surname":"Tsaryuk",
+	"age":24,
+	"pets":"cat",
+	"future_salary":"1500$"
+}
+
