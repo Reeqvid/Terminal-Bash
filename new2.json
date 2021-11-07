@@ -3,5 +3,10 @@
 	"surname":"Tsaryuk",
 	"age":24,
 	"pets":"cat",
-	"future_salary":"1500$"
+	"future_salary":"1500$",
+	"favorite_film": "Jonh wick",
+	"favorite_TV_series": "Preson break",
+	"food": "Caesar salad",
+	"time_of_the_year": "summer",
+	"visit_country": "Thailand"
 }
