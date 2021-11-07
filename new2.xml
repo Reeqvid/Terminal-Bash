@@ -5,4 +5,9 @@
 	<age>24</age>
 	<pets>Cat</pets>
 	<future_salary>1500$</future_salary>
+	<favorite_film>Jonh wick</favorite_film>
+	<favorite_TV_series>Preson break</favorite_TV_series>
+	<food>Caesar salad</food>
+	<time_of_the_year>Summer</time_of_the_year>
+	<visit_country>Thailand</visit_country>
 </person>
